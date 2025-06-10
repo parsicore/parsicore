@@ -1,10 +1,10 @@
-# Parsilab — Persian Rust Ecosystem Tools
+# parsicore — Persian Rust Ecosystem Tools
 
-Welcome to **Parsilab**, the powerhouse organization dedicated to building top-notch Rust tools for Persian developers.
+Welcome to **parsicore**, the powerhouse organization dedicated to building top-notch Rust tools for Persian developers.
 
 ## Who We Are
 
-At Parsilab, we understand that Persian developers deserve native, reliable, and efficient libraries tailored specifically to their unique needs — especially when it comes to date and time handling. That’s why we focus on creating **Rust crates** that make working with the Persian calendar and related utilities seamless and intuitive.
+At parsicore, we understand that Persian developers deserve native, reliable, and efficient libraries tailored specifically to their unique needs — especially when it comes to date and time handling. That’s why we focus on creating **Rust crates** that make working with the Persian calendar and related utilities seamless and intuitive.
 
 ## Our Mission
 
@@ -23,7 +23,7 @@ Our projects center around:
 - **CLI and GUI Tools** (coming soon)  
   Command-line interfaces and graphical frontends to make Persian calendar tasks accessible for all skill levels.
 
-## Why Parsilab?
+## Why parsicore?
 
 - **Pure Rust Power**  
   Leveraging Rust’s unmatched performance, safety, and concurrency for reliable date-time computations.  
@@ -38,7 +38,7 @@ Our projects center around:
 
 | Repository           | Description                                         |
 |---------------------|-----------------------------------------------------|
-| [`parsidate`](https://github.com/parsilab/parsidate)      | The core crate for Persian calendar date types, conversions, and validations. |
+| [`parsidate`](https://github.com/parsicore/parsidate)      | The core crate for Persian calendar date types, conversions, and validations. |
 
 
 ## Get Involved
@@ -53,12 +53,12 @@ We welcome contributions, ideas, and discussions! Whether you're fixing bugs, pr
 
 - [Crates.io - parsidate](https://crates.io/search?q=parsidate)  
 - [Documentation on docs.rs](https://docs.rs/parsidate)  
-- [GitHub Organization](https://github.com/parsilab)
+- [GitHub Organization](https://github.com/parsicore)
 
 ---
 
-Thank you for trusting Parsilab as your go-to resource for Persian tooling in Rust. Let’s build the future of Persian Rust development together!
+Thank you for trusting parsicore as your go-to resource for Persian tooling in Rust. Let’s build the future of Persian Rust development together!
 
 ---
 
-*Maintained by the Parsilab Team*  
+*Maintained by the parsicore Team*  
